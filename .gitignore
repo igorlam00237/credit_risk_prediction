@@ -1,0 +1,20 @@
+# Environement Python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# Données et modèles (non versionnés)
+data/raw
+data/processed
+models/
+reports/
+
+# Cache Streamlit
+.streamlit/
+
+# Docker
+*.log
+
+# Fichiers systéme
+.DS_Store
