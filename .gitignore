@@ -6,9 +6,13 @@ __pycache__/
 
 # Données et modèles (non versionnés)
 data/raw
+!data/raw/.gitkeep
 data/processed
+!data/processed/.gitkeep
 models/
+!models/.gitkeep
 reports/
+!reports/.gitkeep
 
 # Cache Streamlit
 .streamlit/
