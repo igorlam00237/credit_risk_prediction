@@ -5,13 +5,13 @@ __pycache__/
 .env
 
 # Données et modèles (non versionnés)
-data/raw
+data/raw/*
 !data/raw/.gitkeep
-data/processed
+data/processed/*
 !data/processed/.gitkeep
-models/
+models/*
 !models/.gitkeep
-reports/
+reports/*
 !reports/.gitkeep
 
 # Cache Streamlit
